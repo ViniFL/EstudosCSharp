@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\bin\Debug\net6.0\bootcamp-dio.exe
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\bin\Debug\net6.0\bootcamp-dio.deps.json
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\bin\Debug\net6.0\bootcamp-dio.runtimeconfig.json
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\bin\Debug\net6.0\bootcamp-dio.dll
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\bin\Debug\net6.0\bootcamp-dio.pdb
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\bootcamp-dio.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\bootcamp-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\bootcamp-dio.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\bootcamp-dio.AssemblyInfo.cs
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\bootcamp-dio.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\bootcamp-dio.dll
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\refint\bootcamp-dio.dll
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\bootcamp-dio.pdb
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\bootcamp-dio.genruntimeconfig.cache
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\ref\bootcamp-dio.dll
