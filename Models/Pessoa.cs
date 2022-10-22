@@ -14,7 +14,9 @@ namespace bootcamp_dio.Models
       {
         //  Console.WriteLine($"Olá, meu nome é "+
         //  $"{Nome}, e tenho {Idade} anos");
+
         //  Console.WriteLine($"Olá, meu nome é {Nome} \n e tenho {Idade} anos");
+        
          Console.WriteLine($"Olá, meu nome é {Nome}, e tenho {Idade} anos");
       }
     }
