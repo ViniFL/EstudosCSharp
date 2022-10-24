@@ -1,5 +1,80 @@
 ﻿using bootcamp_dio.Models;
 
+int numero = 5;
+
+for(int contador = 0; contador <= 10; contador++)
+{
+    Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Calculadora calc = new Calculadora();
+
+// // calc.Somar(10, 30);
+// // calc.Subtrair(10, 50);
+// // calc.Multiplicar(15, 45);
+// // calc.Dividir(2, 2);
+// // calc.Potencia(2, 5);
+// // calc.Seno(30);
+// // calc.Coseno(30);
+// // calc.Tangente(30);
+// calc.RaizQuadrada(9);
+
+
+// formula para incremento
+// int numeroIncremento = 10;
+
+// Console.WriteLine("Incrementando o 10");
+// // numero = numero + 1;
+// numeroIncremento++;
+
+// Console.WriteLine(numeroIncremento);
+
+// // formula para decremento
+// int numeroDecremento = 20;
+
+// Console.WriteLine("Decrementando o 20");
+// // numero = numero - 1;
+// numeroDecremento--;
+
+// Console.WriteLine(numeroDecremento);
+
+
+
+
+
 // Pessoa pessoa1 = new Pessoa();
 
 // pessoa1.Nome = "Vinicius";
@@ -136,17 +211,34 @@
 
 
 
+// bool ehMaiorDeIdade = false;
+// bool possuiAutorizacaoDoResponsavel = true;
+
+// if (ehMaiorDeIdade || possuiAutorizacaoDoResponsavel)
+// {
+//     Console.WriteLine("Entrada liberada");
+// }
+// else
+// {
+//     Console.WriteLine("Entrada negada");
+// }
 
 
 
-bool ehMaiorDeIdade = false;
-bool possuiAutorizacaoDoResponsavel = true;
 
-if (ehMaiorDeIdade || possuiAutorizacaoDoResponsavel)
-{
-    Console.WriteLine("Entrada liberada");
-}
-else
-{
-    Console.WriteLine("Entrada negada");
-}
+
+
+// bool possuiPresencaMinima = true;
+// double media = 7.5;
+
+// if(possuiPresencaMinima && media >= 7)
+// {
+//     Console.WriteLine("Aprovado!");
+// }
+// else
+// {
+//     Console.WriteLine("Reprovado!");
+// }
+
+
+
