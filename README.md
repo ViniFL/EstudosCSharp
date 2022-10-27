@@ -1,5 +1,5 @@
 # EstudosCSharp
-Repositório criado para estudo na linguagem C# com anotações feitas para módulo estudado.
+Repositório criado para estudo na linguagem C# com anotações feitas para cada módulo estudado.
 
 Anotações de estudos desde a preparação de ambiente até o último módulo estudado. Sempre que tiver mais anotações pretendo adiciona-las neste Readme.
 
