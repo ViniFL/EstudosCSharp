@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\bin\Debug\net6.0\EstudosCSharp.exe
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\bin\Debug\net6.0\EstudosCSharp.deps.json
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\bin\Debug\net6.0\EstudosCSharp.runtimeconfig.json
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\bin\Debug\net6.0\EstudosCSharp.dll
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\bin\Debug\net6.0\EstudosCSharp.pdb
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\EstudosCSharp.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\EstudosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\EstudosCSharp.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\EstudosCSharp.AssemblyInfo.cs
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\EstudosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\EstudosCSharp.dll
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\refint\EstudosCSharp.dll
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\EstudosCSharp.pdb
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\EstudosCSharp.genruntimeconfig.cache
+C:\Users\vinic\Desktop\Estudos\Csharp\bootcamp-dio\obj\Debug\net6.0\ref\EstudosCSharp.dll

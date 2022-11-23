@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinic\\Desktop\\Estudos\\Csharp\\bootcamp-dio\\bootcamp-dio.csproj",
-      "projectName": "bootcamp-dio",
-      "projectPath": "C:\\Users\\vinic\\Desktop\\Estudos\\Csharp\\bootcamp-dio\\bootcamp-dio.csproj",
+      "projectUniqueName": "C:\\Users\\vinic\\Desktop\\Estudos\\Csharp\\bootcamp-dio\\EstudosCSharp.csproj",
+      "projectName": "EstudosCSharp",
+      "projectPath": "C:\\Users\\vinic\\Desktop\\Estudos\\Csharp\\bootcamp-dio\\EstudosCSharp.csproj",
       "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\vinic\\Desktop\\Estudos\\Csharp\\bootcamp-dio\\obj\\",
       "projectStyle": "PackageReference",
