@@ -1,17 +1,46 @@
 ﻿using bootcamp_dio.Models;
 
+// Exemplo de menu interativo usando uma estrutura de repetição While
+string opcao;
+bool exibirMenu = true;
 
-int soma = 0, numero = 0;
 
-do
+while(exibirMenu)
 {
-    Console.WriteLine("Digite um número (0 para parar)");
-    numero = Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("Digite a sua opção:");
+    Console.WriteLine("1 - Cadastrar cliente");
+    Console.WriteLine("2 - Buscar cliente");
+    Console.WriteLine("3 - Apagar cliente");
+    Console.WriteLine("4 - Encerrar");
 
-    soma +=numero;
-} while(numero != 0);
+    opcao = Console.ReadLine();
 
-Console.WriteLine($"Total da soma dos números digitados é: {soma}");
+    switch(opcao)
+    {
+        case "1":
+            Console.WriteLine("Cadastro de cliente");
+            break;
+
+        case "2":
+            Console.WriteLine("Busca de cliente");
+            break;
+        
+        case "3":
+            Console.WriteLine("Apagar cliente");
+            break;
+        
+        case "4":
+            Console.WriteLine("Encerrar");
+            exibirMenu = false; // Utilizando essa maneira, fez com que meu código ainda compilasse até o que está fora desse laço. 
+            // Environment.Exit(0); = Essa função faria com que o código não compilasse mais nada a partir daqui.
+            break;
+
+        default:
+            Console.WriteLine("Opção inválida");
+            break;
+    }
+}
+Console.WriteLine("O programa se encerrou");
 
 
 
@@ -28,7 +57,18 @@ Console.WriteLine($"Total da soma dos números digitados é: {soma}");
 
 
 
+// Exemplo de do while
+// int soma = 0, numero = 0;
 
+// do
+// {
+//     Console.WriteLine("Digite um número (0 para parar)");
+//     numero = Convert.ToInt32(Console.ReadLine());
+
+//     soma +=numero;
+// } while(numero != 0);
+
+// Console.WriteLine($"Total da soma dos números digitados é: {soma}");
 
 
 
